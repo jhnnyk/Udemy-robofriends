@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.693685c4.css",
-    "main.js": "/static/js/main.d3b6759b.js",
-    "static/js/453.eceb90f9.chunk.js": "/static/js/453.eceb90f9.chunk.js",
-    "static/media/SEGA.woff": "/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
-    "index.html": "/index.html",
-    "main.693685c4.css.map": "/static/css/main.693685c4.css.map",
-    "main.d3b6759b.js.map": "/static/js/main.d3b6759b.js.map",
-    "453.eceb90f9.chunk.js.map": "/static/js/453.eceb90f9.chunk.js.map"
+    "main.css": "/Udemy-robofriends/static/css/main.e3cebf25.css",
+    "main.js": "/Udemy-robofriends/static/js/main.5dc88c4e.js",
+    "static/js/453.eceb90f9.chunk.js": "/Udemy-robofriends/static/js/453.eceb90f9.chunk.js",
+    "static/media/SEGA.woff": "/Udemy-robofriends/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/Udemy-robofriends/index.html",
+    "main.e3cebf25.css.map": "/Udemy-robofriends/static/css/main.e3cebf25.css.map",
+    "main.5dc88c4e.js.map": "/Udemy-robofriends/static/js/main.5dc88c4e.js.map",
+    "453.eceb90f9.chunk.js.map": "/Udemy-robofriends/static/js/453.eceb90f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.693685c4.css",
-    "static/js/main.d3b6759b.js"
+    "static/css/main.e3cebf25.css",
+    "static/js/main.5dc88c4e.js"
   ]
 }
